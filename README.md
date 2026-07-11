@@ -130,4 +130,4 @@ CLIP is pretrained on hundreds of millions of image-text pairs collected from th
 ## Author
 
 Sazid Hossain
-Kaggle Notebook: [link to your public Kaggle notebook]
+Kaggle Notebook: https://www.kaggle.com/code/sazidhossain27/zero-shot-image-classification-with-clip
