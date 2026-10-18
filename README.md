@@ -1,5 +1,11 @@
 # Zero-Shot Image Classification with CLIP
 
+![Python](https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
 A comparative study of zero-shot image classification using OpenAI's CLIP model against a traditionally fine-tuned CNN (ResNet18), evaluated across three diverse image datasets.
 
 ## Overview
@@ -84,13 +90,13 @@ CLIP is pretrained on hundreds of millions of image-text pairs collected from th
 
 ## Tech Stack
 
-- **Python 3**
-- **PyTorch** — model training and inference
-- **Hugging Face Transformers** — CLIP model and processor (`openai/clip-vit-base-patch32`)
-- **torchvision** — datasets, ResNet18 architecture, image transforms
-- **scikit-learn** — evaluation metrics and confusion matrices
-- **Matplotlib** — visualizations
-- **Kaggle Notebooks** — development and GPU compute environment
+- <img src="https://cdn.simpleicons.org/python/3776AB" width="18" height="18" alt="Python icon" /> **Python 3**
+- <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="18" height="18" alt="PyTorch icon" /> **PyTorch** — model training and inference
+- <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="18" height="18" alt="Hugging Face icon" /> **Hugging Face Transformers** — CLIP model and processor (`openai/clip-vit-base-patch32`)
+- <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="18" height="18" alt="torchvision icon" /> **torchvision** — datasets, ResNet18 architecture, image transforms
+- <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="18" height="18" alt="scikit-learn icon" /> **scikit-learn** — evaluation metrics and confusion matrices
+- <img src="https://cdn.simpleicons.org/plotly/3F4F75" width="18" height="18" alt="Matplotlib icon" /> **Matplotlib** — visualizations
+- <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="18" height="18" alt="Kaggle icon" /> **Kaggle Notebooks** — development and GPU compute environment
 
 ## Project Structure
 
